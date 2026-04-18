@@ -29,4 +29,7 @@ Learning Outcome
 Future Improvements
 - Add CI/CD integration (GitHub Actions)
 - Expand API test coverage
-- Add Selenium for UI testing
+
+UI Testing
+- Automated browser testing using Selenium
+- Basic user interaction testing (search functionality)
