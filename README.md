@@ -12,6 +12,7 @@ Tech Stack
 - Python
 - PyTest
 - Requests (API testing)
+- Selenium (UI testing)
 
 How to Run
 1. Install dependencies:
